@@ -1,0 +1,89 @@
+{
+    "badgeLayout": [
+        {
+            "FieldName": "Registration Category",
+            "Length": "30"
+        },
+        {
+            "FieldName": "First Name",
+            "Length": "100"
+        },
+        {
+            "FieldName": "Last Name",
+            "Length": "100"
+        },
+        {
+            "FieldName": "Job Title",
+            "Length": "100"
+        },
+        {
+            "FieldName": "Company",
+            "Length": "100"
+        },
+        {
+            "FieldName": "Secondary Company",
+            "Length": "-1"
+        },
+        {
+            "FieldName": "Street Address",
+            "Length": "100"
+        },
+        {
+            "FieldName": "Street Address Line 2",
+            "Length": "100"
+        },
+        {
+            "FieldName": "City",
+            "Length": "100"
+        },
+        {
+            "FieldName": "State or Province",
+            "Length": "100"
+        },
+        {
+            "FieldName": "Postal Code",
+            "Length": "15"
+        },
+        {
+            "FieldName": "Country",
+            "Length": "100"
+        },
+        {
+            "FieldName": "Phone Number",
+            "Length": "50"
+        },
+        {
+            "FieldName": "Extension",
+            "Length": "50"
+        },
+        {
+            "FieldName": "Email Address",
+            "Length": "255"
+        },
+        {
+            "FieldName": "Job Function",
+            "Length": "1000"
+        },
+        {
+            "FieldName": "Company Type",
+            "Length": "1000"
+        },
+        {
+            "FieldName": "Sales Volume",
+            "Length": "1000"
+        },
+        {
+            "FieldName": "Product Categories Purchased",
+            "Length": "1000"
+        },
+        {
+            "FieldName": "Primary Product Category",
+            "Length": "1000"
+        },
+        {
+            "FieldName": "Assignment",
+            "Length": "1000"
+        }
+    ]
+}
+

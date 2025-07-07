@@ -1,0 +1,40 @@
+{
+    "badges": [
+        {
+            "Visitor Type": "Buyer",
+            "Given Name": "Alice",
+            "Surname": "Johnson",
+            "Role": "Owner",
+            "Organization": "Alice's Artifacts",
+            "Address Line 1": "101 Market St",
+            "Address Line 2": "Suite 200",
+            "Municipality": "Springfield",
+            "Region": "IL",
+            "Postal": "29903",
+            "Nation": "USA",
+            "Contact Number": "555-1111",
+            "Email Address": "alice.johnson@example.com",
+            "Interests": "Art, Antiques",
+            "Visit Purpose": "Sourcing new products",
+            "Assigned Rep": "Rep A"
+        },
+        {
+            "Visitor Type": "Exhibitor",
+            "Given Name": "Bob",
+            "Surname": "Smith",
+            "Role": "Sales Manager",
+            "Organization": "Smith Supplies",
+            "Address Line 1": "202 Commerce Blvd",
+            "Address Line 2": "",
+            "Municipality": "Metropolis",
+            "Region": "NY",
+            "Postal": "10001",
+            "Nation": "USA",
+            "Contact Number": "555-2222",
+            "Email Address": "bob.smith@example.com",
+            "Interests": "Wholesale, Distribution",
+            "Visit Purpose": "Showcasing products",
+            "Assigned Rep": "Rep B"
+        }
+    ]
+}
